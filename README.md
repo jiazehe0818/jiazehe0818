@@ -20,8 +20,7 @@
 
 - [video-breakdown-cases](https://github.com/jiazehe0818/video-breakdown-cases)：爆款视频逐镜拆解库。把热门短视频一镜一镜拆开，记切点、景别和节奏，再给出复刻提示词方向，附一份谁都能用的拆解模板。
 - [director-skills](https://github.com/jiazehe0818/director-skills)：给 AI 助手用的导演 skill 包。脚本拆解、分镜逐镜表、AI 宠物短剧制作，都是从真实项目里磨出来的工作规范。
-
-后面还会陆续放出 AI 视频提示词库。
+- [film-stock-prompts](https://github.com/jiazehe0818/film-stock-prompts)：AI 视频提示词库 · 胶片色彩篇。把柯达、富士等真实胶片的色彩行为写成能直接粘贴的中英文提示词片段，点名型号就能调影调。
 
 ## 合作
 
